@@ -121,5 +121,5 @@ checkpoint = torch.load('C80_Final_Model.pth')
 
 ---
 
-**Araştırmacı:** Abdulsamet  
-**Kurum:** TÜBİTAK 1001
+**Araştırmacı Lisans Bursiyeri:** Abdulsamet KILIÇ
+**Kurum:** TÜBİTAK / Alanya Alaeddin Keykubat Üniversitesi
